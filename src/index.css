@@ -1,0 +1,130 @@
+nav{
+font-size: 0.85rem;
+}
+.btn{
+    font-size: 0.85rem;
+}
+.container2{
+    height: 100vh;
+    }
+.container1{
+    width: 100%;
+    border: none;
+    background-color: palevioletred;
+}
+
+.p1{
+    background-image: url(./assets/weatherimage.jpg);
+   background-position: center;
+   background-size: cover;
+   border: none;
+   height: 40vh;
+  }
+  .Time{
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 50px;
+    margin-left: 20px;
+
+  }
+  .b2{
+
+    background-color: rgb(241, 239, 240);
+    }
+  
+.card-header {
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    background-color: rgba(154, 246, 246, 0.7);
+    
+}
+.img-fluid{
+background-size: cover;
+background-position: center;
+width: 100%;
+}
+.icons1{
+    font-size: 17px;
+    /* border: 2px solid red; */
+    height: 30px;
+    outline: none;
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+    text-decoration: none;
+    /* background-color: rgb(47, 8, 106 ,0.3); */
+    
+}
+
+
+.Time{
+    font-size: 15px;
+    margin-top: 4px;
+    margin-right: 2px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+a:focus {
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+}
+.twitter{
+    color: rgb(29,155,240);
+}
+.twitter:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%);
+}
+.instagram{
+    color: rgb(175, 8, 113);
+}
+.instagram:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%);
+}
+
+.whats-app{
+    color: rgb(0, 105, 0);
+}
+
+.whats-app:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%);
+}
+
+.Linkedin:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%); 
+}
+
+.Facebook:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%); 
+}
+
+.you-tube{
+    color: red;
+}
+
+.you-tube:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%);
+}
+
+.Google{
+    color: rgb(255, 193, 5);
+    /* background: rgb(131,58,180); */
+/* background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); */
+}
+
+.Google:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%);
+}
+
